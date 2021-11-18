@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>s300</title>
+    
+</head>
+<body>
+    <h2><center>s300</center></h2>
+    <div class="container">
+        <img src="https://github.com/bourman/Project_Pelecard_s300/blob/main/Ready.png?raw=true" />
+        <button class="number1">1</button>
+        <button class="number2">2</button>
+        <button class="number3">3</button>
+        <button class="number4">4</button>
+        <button class="number5">5</button>
+        <button class="number6">6</button>
+        <button class="number7">7</button>
+        <button class="number8">8</button>
+        <button class="number9">9</button>
+    </div>
+    <style>
+        .container{
+            position: relative;
+            width:400%;
+            max-width:40px;
+
+        }
+        .container img{
+            width: 1000px;
+            height: 1000px;
+
+        }
+        .container .number1{
+            position: absolute;
+            top:69%;
+            left:1010%;
+        }
+        .container .number2{
+            position: absolute;
+            top: 69%;
+            left: 1250%;
+        }
+        .container .number3{
+            position: absolute;
+            top: 69%;
+            left: 1540%;
+        }
+        .container .number4{
+            position: absolute;
+            top: 74%;
+            left: 1010%
+        }
+        .container .number5{
+            position: absolute;
+            top: 74%;
+            left: 1250%;
+        }
+        .container .number6{
+            position: absolute;
+            top: 74%;
+            left: 1540%;
+        }
+        .container .number7{
+            position: absolute;
+            top: 80%;
+            left: 1010%;
+        }
+        .container .number8{
+            position: absolute;
+            top: 80%;
+            left: 1250%;
+        }
+        .container .number9{
+            position: absolute;
+            top: 80%;
+            left: 1540%;
+        }
+        
+
+    </style>
+</body>
+</html>
